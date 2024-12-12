@@ -1,5 +1,3 @@
-# REAL-TIME-FACE-DETECTION-WITH-CUSTOM-CNN
-
 Real-Time Face Detection and Recognition with Custom CNN Model
 This project implements a real-time face detection and recognition system using Haar cascades and a Convolutional Neural Network (CNN). The project includes preprocessing, model training, and real-time face recognition through a webcam interface. It is built in Google Colab.
 
